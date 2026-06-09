@@ -52,5 +52,6 @@ Skills Demonstrated
    
 Short GitHub Description 
 
-Interactive Power BI dashboard for analyzing student academic performance, result trends, and key educational insights using visual analytics and KPI reporting.
+  Interactive Power BI dashboard for analyzing student academic performance, result trends, and key educational insights using visual analytics and KPI reporting.
+
 ![Dashboard Preview](https://github.com/Ayushmaan87/Student-Result-Analysis/blob/main/Good%20Looking%20Dashboard%20.png)
