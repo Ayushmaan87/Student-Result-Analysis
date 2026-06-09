@@ -1,11 +1,11 @@
 Student Result Analysis Dashboard
 Project Overview
 
-A Power BI dashboard developed to analyze student academic performance and provide actionable insights through interactive visualizations. The dashboard helps identify performance trends, result distributions, and key academic metrics for better decision-making.
+  A Power BI dashboard developed to analyze student academic performance and provide actionable insights through interactive visualizations. The dashboard helps     identify performance trends, result distributions, and key academic metrics for better decision-making.
 
 Purpose
 
-The main objective of this project is to transform raw student result data into meaningful insights that help educators, institutions, and stakeholders understand student performance and identify areas for improvement.
+   The main objective of this project is to transform raw student result data into meaningful insights that help educators, institutions, and stakeholders     understand student performance and identify areas for improvement.
 
 Tools & Technologies Used
 
