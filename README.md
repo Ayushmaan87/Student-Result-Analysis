@@ -8,13 +8,13 @@ Purpose
 The main objective of this project is to transform raw student result data into meaningful insights that help educators, institutions, and stakeholders understand student performance and identify areas for improvement.
 
 Tools & Technologies Used
-Power BI – Dashboard Development & Visualization
-Data Modeling – Relationship Management
-DAX (Data Analysis Expressions) – KPI Calculations
-Data Cleaning & Transformation – Power Query
-Interactive Filters & Slicers – Dynamic Analysis
+1. Power BI – Dashboard Development & Visualization
+2. Data Modeling – Relationship Management
+3. DAX (Data Analysis Expressions) – KPI Calculations
+4. Data Cleaning & Transformation – Power Query
+5. Interactive Filters & Slicers – Dynamic Analysis
 Dashboard Features
-Student performance summary cards
+1. Student performance summary cards
 Result distribution analysis
 Subject-wise performance visualization
 Interactive filtering options
