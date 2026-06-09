@@ -41,14 +41,16 @@ Advantages
 6. Provides a comprehensive view of student results
 
 Skills Demonstrated
-Data Visualization
-Dashboard Design
-Data Analysis
-Business Intelligence
-Power BI Development
-KPI Reporting
-Data Transformation
-Short GitHub Description (One Line)
+
+1. Data Visualization
+2. Dashboard Design
+3. Data Analysis
+4. Business Intelligence
+5. Power BI Development
+6. KPI Reporting
+7. Data Transformation
+   
+Short GitHub Description 
 
 Interactive Power BI dashboard for analyzing student academic performance, result trends, and key educational insights using visual analytics and KPI reporting.
 [Dashboard preview].(https://github.com/Ayushmaan87/Student-Result-Analysis/blob/main/Good%20Looking%20Dashboard%20.png)
