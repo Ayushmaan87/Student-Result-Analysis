@@ -15,23 +15,23 @@ Tools & Technologies Used
 5. Interactive Filters & Slicers – Dynamic Analysis
 Dashboard Features
 1. Student performance summary cards
-Result distribution analysis
-Subject-wise performance visualization
-Interactive filtering options
-Comparative performance charts
-Visual representation using pie and donut charts
+2. Result distribution analysis
+3. Subject-wise performance visualization
+4. Interactive filtering options
+5. Comparative performance charts
+6. Visual representation using pie and donut charts
 Key Insights
-Identifies high and low-performing students
-Highlights overall result trends
-Provides performance distribution analysis
-Enables quick academic performance monitoring
+1. Identifies high and low-performing students
+2. Highlights overall result trends
+3. Provides performance distribution analysis
+4. Enables quick academic performance monitoring
 Advantages
-Easy-to-understand visual reports
-Faster analysis compared to manual reporting
-Interactive and user-friendly interface
-Supports data-driven academic decisions
-Helps identify improvement opportunities
-Provides a comprehensive view of student results
+1. Easy-to-understand visual reports
+2. Faster analysis compared to manual reporting
+3. Interactive and user-friendly interface
+4. Supports data-driven academic decisions
+5. Helps identify improvement opportunities
+6. Provides a comprehensive view of student results
 Skills Demonstrated
 Data Visualization
 Dashboard Design
@@ -43,3 +43,4 @@ Data Transformation
 Short GitHub Description (One Line)
 
 Interactive Power BI dashboard for analyzing student academic performance, result trends, and key educational insights using visual analytics and KPI reporting.
+https://github.com/Ayushmaan87/Student-Result-Analysis/blob/main/Good%20Looking%20Dashboard%20.png
